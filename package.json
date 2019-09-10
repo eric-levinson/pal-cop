@@ -1,0 +1,26 @@
+{
+  "name": "pal-cop",
+  "version": "1.0.0",
+  "description": "A palace cop bot that does it's job.",
+  "main": "palscript.js",
+  "dependencies": {
+    "promise-poller": "^1.7.0",
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "response": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palace",
+    "cop",
+    "bot",
+    "bot",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "ISC"
+}
